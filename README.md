@@ -14,4 +14,4 @@ included:
 
 #### Rain Bayesian Network
 Bayesian network implemented according to SDA2 project specification. Network has following structure:
-![RainBayesianNetwork](../bn.png)
+![RainBayesianNetwork](images/bn.png)
