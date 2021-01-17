@@ -1,5 +1,4 @@
-from sampling import *
-from rain_bayesian_network import *
+from sampling.inference.rain_bayesian_network import *
 
 import arviz as az
 from collections import defaultdict

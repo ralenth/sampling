@@ -1,7 +1,7 @@
-from .autocorrelation import *
-from .convergence import *
-from .gibbs_sampler import *
-from .rain_bayesian_network import *
+from sampling.diagnostics.autocorrelation import *
+from sampling.diagnostics.convergence import *
+from sampling.inference.gibbs_sampler import *
+from sampling.inference.rain_bayesian_network import *
 
 
 # define variables of interest (probability of which you want to sample)
